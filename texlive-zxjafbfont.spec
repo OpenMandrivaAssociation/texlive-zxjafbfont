@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-zxjafbfont
 Version:	20131009
-Release:	3
+Release:	4
 Summary:	TeXLive zxjafbfont package
 Group:		Publishing
 URL:		http://tug.org/texlive
