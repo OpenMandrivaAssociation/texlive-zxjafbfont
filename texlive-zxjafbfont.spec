@@ -1,6 +1,6 @@
 Name:		texlive-zxjafbfont
 Version:	28539
-Release:	1
+Release:	2
 Summary:	TeXLive zxjafbfont package
 Group:		Publishing
 URL:		http://tug.org/texlive
